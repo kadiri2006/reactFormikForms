@@ -28,9 +28,9 @@ export default function Form6() {
 
   const savedlValues = {
     name: "bharath",
-    phoneNumber: "8985052593",
-    TelephoneNumbers: ["9052298979"],
-    check: "9618234033",
+    phoneNumber: "898505",
+    TelephoneNumbers: ["90522"],
+    check: "96182",
   };
 
   const firstvalues = {
